@@ -1,5 +1,6 @@
 scriptencoding utf-8
 
+
 " change fillchars for folding, vertical split, end of buffer, and message separator
 set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
 
